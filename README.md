@@ -5,5 +5,5 @@ This is a step by step guide explains how to set up a Security Information and E
 
 #### Contact Information
 If you have any questions, feedback, or would like to connect, feel free to reach out to me:
-• LinkedIn: linkedin.com/in/r-rafi-cybersecurity
+#####• LinkedIn: linkedin.com/in/r-rafi-cybersecurity
 Thank you for reviewing my project.
